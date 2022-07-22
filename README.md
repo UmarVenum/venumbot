@@ -1,2 +1,3 @@
-# venumbot
- Test bot for Yandex
+# Тестовый бот venumbot для Yandex.
+ Бот, копируйющий твоё сообщение или стикер. 
+ Создан с использованием библиотеки pyTelegramBotAPI на Python.
